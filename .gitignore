@@ -1,7 +1,3 @@
-#IDE
-.settings/
-.springBenas
-
 # Maven
 log/
 target/
